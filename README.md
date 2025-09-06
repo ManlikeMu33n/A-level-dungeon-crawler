@@ -20,6 +20,7 @@ The player traverses through rooms varying in size and enemy count and can colle
 ![Save Room](Screenshots/Save_room.png)
 ![Shop](Screenshots/ShopInGame.png)
 ![Skills Menu](Screenshots/SkillsMenu.png)
+![Attacking](Screenshots/Attacking.png)
 
 ## Controls
 - WASD to move
